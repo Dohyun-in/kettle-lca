@@ -1,0 +1,13 @@
+material,mass_g,part,process_id,process_name,version,location,reference_unit,demand_in_reference_unit,rationale,database_status
+Stainless steel,186.0,Kettle,49f5324b-fc33-36e9-b5af-3c80d73492bd,Steel; stainless 304; flat rolled coil,00.01.014,Northern America,kg,0.186,스테인리스 고철이 아닌 생산 공정을 우선한다. 선호 구문: flat rolled,matched
+Brass,20.25,Kettle,,,,,,0.0,이름 규칙에 맞는 공정이 없다.,not_matched
+Copper,15.0,Kettle,,,,,,0.0,이름 규칙에 맞는 공정이 없다.,not_matched
+Polypropylene (PP),350.25,Kettle,89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,Injection molding; rigid polypropylene part; at plant,00.00.022,United States of America (the),kg,0.35025,"주전자 플라스틱 몸체는 사출이 가깝다. 사출 공정이 버진 수지를 이미 투입하면 수지를 따로 더하지 않는다. 선호 구문: injection molding, rigid polypropylene",matched
+Polyvinyl chloride (PVC),43.5,Kettle,3dbccdda-2014-4239-ad1f-4e15c034942b,"Polyvinyl chloride resin, PVC; suspension grade; at plant",00.01.015,United States of America (the),kg,0.0435,"수명 종료와 지붕재는 주전자 부품이 아니다. 서스펜션 등급 버진 수지를 고르고, 전선 압출 공정은 데이터에 없으면 빠졌다고 적는다. 선호 구문: suspension, resin",matched
+"Nylon, grade unspecified",49.5,Kettle,,,,,,0.0,이름 규칙에 맞는 공정이 없다.,not_matched
+Polyoxymethylene (POM),9.75,Kettle,,,,,,0.0,이름 규칙에 맞는 공정이 없다.,not_matched
+Polycarbonate (PC),6.75,Kettle,,,,,,0.0,이름 규칙에 맞는 공정이 없다.,not_matched
+Acrylonitrile-butadiene-styrene (ABS),30.0,Kettle,0e42a306-ee2d-362e-8bc3-580000096459,"Acrylonitrile-butadiene-styrene, ABS; copolymer resin; at plant",00.01.010,Northern America,kg,0.03,"ABS 공정을 찾는다. 선호 구문: copolymer resin, abs",matched
+Silicone,12.0,Kettle,,,,,,0.0,이름 규칙에 맞는 공정이 없다.,not_matched
+LDPE packaging foil,6.3,Packaging,6a12cba1-889d-4515-90f8-89feb8d662f2,"Low-density polyethylene, LDPE; virgin resin; at plant",00.01.012,Northern America,kg,0.0063,"필름 가공 공정은 없고 LLDPE는 다른 중합체다. LDPE 버진 수지를 쓰고 포일 가공은 빠졌다고 적는다. 선호 구문: low-density polyethylene, ldpe, ldpe; virgin",matched
+Cardboard packaging,131.5,Packaging,226ed3c2-e020-4c95-b1fc-4559fc2d18ac,Corrugated product; average production; at mill,00.01.008,United States of America (the),kg,0.1315,"소매 포장은 평균 골판지를 쓴다. 100% 재활용 골판지는 기본값에서 빼 두고 나중 비교 후보로 남긴다. 선호 구문: average production, corrugated product",matched

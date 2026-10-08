@@ -1,0 +1,6 @@
+{
+  "repository": "Federal_LCA_Commons/commons_merged",
+  "download": "GET https://api.nal.usda.gov/FederalLCACommonsapi/download/json/prepare/Federal_LCA_Commons/commons_merged",
+  "sha256": "ae9590f473fc7466a5167dfcbbb6e500a8bb939819f7eab9aaf86a68b411ee22",
+  "note": "zip 원본은 data/cache에만 두고 Git에는 넣지 않는다. DATA_GOV_API_KEY가 필요하다."
+}

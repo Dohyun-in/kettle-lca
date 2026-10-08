@@ -1,0 +1,30 @@
+material,process_id,process_name,version,location,score,rejected,reason,selected
+Stainless steel,49f5324b-fc33-36e9-b5af-3c80d73492bd,Steel; stainless 304; flat rolled coil,00.01.014,Northern America,12,False,선호 구문: flat rolled,True
+Stainless steel,8560388b-7ea1-38b7-befc-fd25d5deb450,Steel; stainless 304; quarto plate,00.01.015,Northern America,2,False,선호 구문: 없음,False
+Stainless steel,34897ebd-aa3d-347c-91ee-876c3f835fdb,Steel; stainless 304; scrap,00.01.014,Global,-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Copper,f0810c41-81cd-3dea-83b2-7a66c7fd9362,Copper sulfate; chemical reaction process; at processing plant,01.00.000,United States of America (the),-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Copper,6373ec73-ca57-47bd-8284-2f3cc25b8637,Copper; at storage Bridge; USLCI to USEEIO,00.00.006,,-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Polypropylene (PP),89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,Injection molding; rigid polypropylene part; at plant,00.00.022,United States of America (the),22,False,"선호 구문: injection molding, rigid polypropylene",True
+Polypropylene (PP),2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb,"Polypropylene, PP; virgin resin; at plant",00.01.012,Northern America,7,False,선호 구문: 없음,False
+Polypropylene (PP),18c37a18-0ddd-3944-b9b1-458410215233,Thermoforming; rigid polypropylene part; at plant,00.00.018,Northern America,-88,True,선호 구문: rigid polypropylene. 제외 구문이 이름에 있다.,False
+Polypropylene (PP),185648c2-334e-419c-bf16-bb95e258f6bb,"Recycled postconsumer polypropylene, PP, pellet; at plant",00.00.020,Northern America,-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Polyvinyl chloride (PVC),3dbccdda-2014-4239-ad1f-4e15c034942b,"Polyvinyl chloride resin, PVC; suspension grade; at plant",00.01.015,United States of America (the),22,False,"선호 구문: suspension, resin",True
+Polyvinyl chloride (PVC),da27970f-ada2-4360-ae98-d9b568e672e3,"Municipal solid waste landfilling of polyvinyl chloride, PVC",00.00.025,United States of America (the),-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Polyvinyl chloride (PVC),3614b7fc-8ce3-396c-a092-cce24460b44f,"Single-ply white polyester reinforced PVC roofing membrane; 40 mils, 1.016 mm",01.01.007,Northern America,-100,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Polyvinyl chloride (PVC),662f589e-3363-3b4d-92a4-c98f68bc3339,"Single-ply white polyester reinforced PVC roofing membrane; 48 mils, 1.219 mm",01.01.007,Northern America,-100,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Polyvinyl chloride (PVC),d91ee594-22ae-390a-93ed-1f6b7be34714,"Single-ply white polyester reinforced PVC roofing membrane; 60 mils, 1.524 mm",01.01.007,Northern America,-100,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Polyvinyl chloride (PVC),d5b7de33-7b2e-3807-9790-76a0254cc6bf,"Single-ply white polyester reinforced PVC roofing membrane; 80 mils, 2.032 mm",01.01.007,Northern America,-100,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+"Nylon, grade unspecified",a2174501-418e-4b2e-9dbd-fa81f5f0bcc7,Nylon 6 Bridge; USLCI to USEEIO,00.00.012,,-88,True,선호 구문: nylon 6. 제외 구문이 이름에 있다.,False
+"Nylon, grade unspecified",052c051b-b37f-4f00-9fe8-f5b2764b69c1,Nylon 66 Bridge; USLCI to USEEIO,00.00.016,,-88,True,선호 구문: nylon 6. 제외 구문이 이름에 있다.,False
+Polycarbonate (PC),531f7547-3175-4114-842a-cf358fb4a10b,Polycarbonate Bridge; USLCI to USEEIO,00.00.012,,-88,True,선호 구문: polycarbonate. 제외 구문이 이름에 있다.,False
+Acrylonitrile-butadiene-styrene (ABS),0e42a306-ee2d-362e-8bc3-580000096459,"Acrylonitrile-butadiene-styrene, ABS; copolymer resin; at plant",00.01.010,Northern America,22,False,"선호 구문: copolymer resin, abs",True
+Acrylonitrile-butadiene-styrene (ABS),13abc978-777f-4929-9990-4f53976d032f,Acrylonitrile; at plant,00.01.007,United States of America (the),2,False,선호 구문: 없음,False
+Acrylonitrile-butadiene-styrene (ABS),9837ad08-84b1-4c5b-a2f2-c1b8eb07e754,"Polyacrylonitrile, PAN: at plant",00.01.008,United States of America (the),2,False,선호 구문: 없음,False
+LDPE packaging foil,6a12cba1-889d-4515-90f8-89feb8d662f2,"Low-density polyethylene, LDPE; virgin resin; at plant",00.01.012,Northern America,27,False,"선호 구문: low-density polyethylene, ldpe, ldpe; virgin",True
+LDPE packaging foil,1dbafde2-2bc3-405c-9726-4d92fe7d29f9,"Linear low-density polyethylene, LLDPE; virgin resin; at plant",00.01.012,Northern America,-83,True,선호 구문: ldpe; virgin. 제외 구문이 이름에 있다.,False
+LDPE packaging foil,26f39b7c-389c-4903-8f09-6ef5e95876cc,"Stretch film, linear low density polyethylene, LLDPE; at plant",00.00.017,United States of America (the),-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Cardboard packaging,226ed3c2-e020-4c95-b1fc-4559fc2d18ac,Corrugated product; average production; at mill,00.01.008,United States of America (the),22,False,"선호 구문: average production, corrugated product",True
+Cardboard packaging,c245a252-0860-41d2-9789-802bab7984ab,Containerboard; at mill,00.01.022,United States of America (the),2,False,선호 구문: 없음,False
+Cardboard packaging,9c10be0f-e38e-4551-b8b5-eef65fa27dcc,Corrugated product; 100% recycled; at mill,00.01.010,United States of America (the),-88,True,선호 구문: corrugated product. 제외 구문이 이름에 있다.,False
+Cardboard packaging,9da15ed3-884b-4007-bf5e-7dd1bc4808b8,Combustion of corrugated containers,00.00.038,United States of America (the),-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False
+Cardboard packaging,12ba204b-7438-49df-abbb-b8cbe817927e,Containerboard; 100% recycled; at mill,00.01.017,United States of America (the),-98,True,선호 구문: 없음. 제외 구문이 이름에 있다.,False

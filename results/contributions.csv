@@ -1,0 +1,13 @@
+material,mass_g,part,process_id,process_name,gwp100_kg_co2eq,biogenic_co2_kg,status
+Stainless steel,186.0,Kettle,49f5324b-fc33-36e9-b5af-3c80d73492bd,Steel; stainless 304; flat rolled coil,1.4778044501722127,0.0,characterized_portion_only
+Brass,20.25,,,,,,not_matched
+Copper,15.0,,,,,,not_matched
+Polypropylene (PP),350.25,Kettle,89a2b59a-1ca2-34f5-acc8-a8eaaa6fa870,Injection molding; rigid polypropylene part; at plant,1.0506386859396128,0.0012914127445502852,characterized_portion_only
+Polyvinyl chloride (PVC),43.5,Kettle,3dbccdda-2014-4239-ad1f-4e15c034942b,"Polyvinyl chloride resin, PVC; suspension grade; at plant",0.06308827395127575,3.196228084964457e-05,characterized_portion_only
+"Nylon, grade unspecified",49.5,,,,,,not_matched
+Polyoxymethylene (POM),9.75,,,,,,not_matched
+Polycarbonate (PC),6.75,,,,,,not_matched
+Acrylonitrile-butadiene-styrene (ABS),30.0,Kettle,0e42a306-ee2d-362e-8bc3-580000096459,"Acrylonitrile-butadiene-styrene, ABS; copolymer resin; at plant",0.05534524819896836,4.215542816832107e-05,characterized_portion_only
+Silicone,12.0,,,,,,not_matched
+LDPE packaging foil,6.3,Packaging,6a12cba1-889d-4515-90f8-89feb8d662f2,"Low-density polyethylene, LDPE; virgin resin; at plant",0.013508361002842138,1.5425752823103567e-06,characterized_portion_only
+Cardboard packaging,131.5,Packaging,226ed3c2-e020-4c95-b1fc-4559fc2d18ac,Corrugated product; average production; at mill,0.2744351858298825,0.0002593566079188219,characterized_portion_only
