@@ -1,0 +1,15 @@
+study_title: "Factory-gate carbon footprint of one packaged BC1 1 L plastic electric kettle"
+public_alias: "unset"
+run_identifier: "independent-uslci-commons-merged-2026-10-08"
+study_date: "2026-10-08"
+declared_unit: "One manufactured and packaged BC1 1 L plastic electric kettle at the factory gate"
+geography_of_product_definition: "EU representative base case BC1, not a named commercial product"
+background_geography: "United States / Northern America, as published in the matched datasets"
+reference_year_of_bom: 2020
+impact_method: "IPCC AR6-100 as shipped in Commons Merged, category a6206006-65bc-395c-8dc9-f12262f45a04, reference unit kg CO2 eq"
+time_horizon_years: 100
+biogenic_carbon_treatment: "The published AR6-100 factor for Carbon dioxide, biogenic to air is 0. Biogenic methane uses the published factor 27.0. Fossil methane uses 29.8 and nitrous oxide uses 273. A published zero is kept; a flow with no factor is reported as uncharacterized and is not entered as zero."
+allocation: "Attributional. No recycling credit and no system expansion. Scrap inside a background unit process stays as that process published it."
+database_label: "Federal LCA Commons / Commons Merged"
+repository_path: "Federal_LCA_Commons/commons_merged"
+uslci_release_expected: "v1.2026-09.0"

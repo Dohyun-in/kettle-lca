@@ -1,0 +1,10 @@
+.env
+.venv/
+.vendor/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+
+# 재배포하지 않는 원본 데이터베이스. 식별자와 받는 방법만 저장소에 남긴다.
+data/cache/

@@ -1,0 +1,13 @@
+material,mass_g,part,search_hints,preferred_process_kind
+Stainless steel,186.00,Kettle,"stainless steel",material
+Brass,20.25,Kettle,"brass",material
+Copper,15.00,Kettle,"copper",material
+Polypropylene (PP),350.25,Kettle,"polypropylene injection molding",conversion
+Polyvinyl chloride (PVC),43.50,Kettle,"polyvinyl chloride pvc",conversion
+"Nylon, grade unspecified",49.50,Kettle,"nylon 6 polyamide injection",conversion
+Polyoxymethylene (POM),9.75,Kettle,"polyoxymethylene pom acetal",conversion
+Polycarbonate (PC),6.75,Kettle,"polycarbonate pc",conversion
+Acrylonitrile-butadiene-styrene (ABS),30.00,Kettle,"acrylonitrile butadiene styrene abs",conversion
+Silicone,12.00,Kettle,"silicone",material
+LDPE packaging foil,6.30,Packaging,"ldpe film foil polyethylene",material
+Cardboard packaging,131.50,Packaging,"corrugated board cardboard",material

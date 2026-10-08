@@ -1,0 +1,19 @@
+# 전경 가정. 배경 단위공정 안에 이미 들어 있는 수율·전력·포장과 겹치지 않게 둔다.
+finished_mass_is_demand: true
+extra_manufacturing_loss_rate: 0.0
+extra_manufacturing_loss_status: "assumed"
+extra_manufacturing_loss_note: "BOM은 완제품 질량만 준다. 부품 가공 공정이 맞으면 그 공정의 수지 투입량(예: PP 사출 1 kg당 수지 1.034 kg)을 그대로 쓴다. 가공 공정이 없어 소재 공정만 쓰는 항목에는 추가 손실을 곱하지 않는다."
+
+# null이면 계산에 넣지 않는다. 0으로 두지 않는다.
+assembly_electricity_kwh: null
+assembly_electricity_status: "unknown"
+assembly_electricity_note: "EU 주전자 BOM은 공장 조립 전력을 주지 않는다. 사출 등 부품 공정에 포함된 전력과 별도인 최종 조립 전력은 이번 독립 실행에서 계산하지 않는다."
+
+inbound_transport: "not added in the foreground. Transport already inside a matched unit process is kept."
+customer_delivery: "excluded"
+use_phase: "excluded"
+end_of_life: "excluded"
+
+nylon_proxy_note: "등급이 지정되지 않았다. 검색 결과에서 버진 나일론 6 계열을 우선하고, 없으면 나일론 6,6을 대리로 쓴다."
+virgin_not_recycled: true
+virgin_note: "새 주전자의 기본 경로로 버진 소재를 고른다. 재활용 수지는 대안으로 기록만 한다."
